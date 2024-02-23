@@ -442,6 +442,8 @@ iframe {
 
 .leftText {
     width: 40%;
+    margin-left: 50px;
+    padding-left: 60px;
 }
 
 .leftTextTitle {
